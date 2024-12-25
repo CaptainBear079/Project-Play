@@ -20,3 +20,8 @@ We are happy about any error we can fix :)
 ## Bugs we know of(Currently being fixed)
 
 No known bugs :)
+
+## What we use
+Windows 11 and Visual Studio 2022
+
+If you want to program something for the project, you can use any system and software you want :)
