@@ -22,6 +22,8 @@ We are happy about any error we can fix :)
 No known bugs :)
 
 ## What we use
+Programming Language C++
+
 Windows 11 and Visual Studio 2022
 
 If you want to program something for the project, you can use any system and software you want :)
