@@ -7,9 +7,6 @@ Good Luck by trying :)
 
 ## How to Install
 
-Step 1:
-Download the Installer
-
 ## How to use
 
 Nothing to use yet :(
