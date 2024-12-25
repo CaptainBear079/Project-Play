@@ -12,7 +12,7 @@ Download the Installer
 
 ## How to use
 
-
+Nothing to use yet :(
 
 ## Find a Bug?
 Create a new problem and describe what isn't working
