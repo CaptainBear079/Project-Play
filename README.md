@@ -11,6 +11,12 @@ Good Luck by trying :)
 
 Nothing to use yet :(
 
+## How to work in Visual Studio(only Windows)
+-Download Visual Studio
+-Open Visual-Studio-Projekt-file.sln with Visual Studio
+
+Now you can work:)
+
 ## Find a Bug?
 Create a new problem and describe what isn't working
 and where in the program you noticed it.
