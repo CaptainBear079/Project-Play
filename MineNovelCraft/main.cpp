@@ -18,13 +18,13 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR args, int
 		return -1;
 	}
 
-	hMain_Menu = CreateWindowW(L"", L"A BIG Disaster", WS_OVERLAPPEDWINDOW | WS_SYSMENU, 200, 100, 200, 100, NULL, NULL, hInstanceASSSS, NULL);
+	hMain_Menu = CreateWindowW(L"", L"A BIG Disaster", WS_OVERLAPPEDWINDOW | WS_SYSMENU, 200, 100, 200, 100, NULL, NULL, hInstance, NULL);
 	if (hMain_Menu == NULL) {
 		return -1;
 	}
 
-	MSG msg;
-	while (GetMessageW(msg, NULL, 0, 0)) {
+	MSG msg = { 0 };
+	while (GetMessageW(&msg, NULL, 0, 0)) {
 		TranslateMessage(&msg);
 		DispatchMessageW(&msg);
 	}
