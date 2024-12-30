@@ -5,6 +5,10 @@ the project is regularly updated.
 
 Good Luck by trying :)
 
+## Change Log
+- Version 0.1
+  - CHANGELOG_version0.1.md
+
 ## How to Install
 
 ## How to use
@@ -27,9 +31,12 @@ We are happy about any error we can fix :)
 
 No known bugs :)
 
+## Preview
+- Preview.md
+
 ## What we use
 Programming Language C++
 
 Windows 11 and Visual Studio 2022
 
-If you want to program something for the project, you can use any system and software you want :)
+If you want to program something for the project, you can use any s ystem and software you want :)
