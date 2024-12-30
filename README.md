@@ -1,5 +1,5 @@
-# Projekt Play
-## What is Projekt Play
+# Project Play
+## What is Project Play
 Project Play is a program that is supposed to allow people to create small games or mods for games,
 the project is regularly updated.
 
