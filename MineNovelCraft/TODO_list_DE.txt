@@ -1,1 +1,1 @@
-WndClassConfig.lpszClassName = L""; Klassen namen festlegen
+WndClassConfig.lpszClassName = L""; Set Class name
