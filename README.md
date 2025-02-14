@@ -10,16 +10,18 @@ Good Luck by trying :)
   - CHANGELOG_version0.1.md
 
 ## How to Install
+Download
+1.Download the latest release from the repository
+2.Run the installer
+3.Go to the installation directory and extract the files from Controller.zip
+
+Compile
+1. Clone the repository
+2.Compile with Make or CMake
 
 ## How to use
 
 Nothing to use yet :(
-
-## How to work in Visual Studio(only Windows)
--Download Visual Studio
--Open Visual-Studio-Projekt-file.sln with Visual Studio
-
-Now you can work:)
 
 ## Find a Bug?
 Create a new problem and describe what isn't working
