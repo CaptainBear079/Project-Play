@@ -7,7 +7,6 @@ Good Luck by trying :)
 
 ## Change Log
 - Version 0.1
-  - CHANGELOG_version0.1.md
 
 ## How to Install
 Download
