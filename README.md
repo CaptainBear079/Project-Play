@@ -6,17 +6,23 @@ the project is regularly updated.
 Good Luck by trying :)
 
 ## Change Log
-- Version 0.1
+- Version 0.1 Planning
+- Version 0.2 Planning
+
+## Next Release
+- Version 0.3 Alpha
+- Version 0.5 Beta
+- Version 1.0 Release
 
 ## How to Install
 Download
-1.Download the latest release from the repository
-2.Run the installer
-3.Go to the installation directory and extract the files from Controller.zip
+- 1.Download the latest release from the repository
+- 2.Run the installer
+- 3.Go to the installation directory and extract the files from Controller.zip
 
 Compile
-1. Clone the repository
-2.Compile with Make or CMake
+- 1.Clone the repository
+- 2.Compile with Make or CMake
 
 ## How to use
 
